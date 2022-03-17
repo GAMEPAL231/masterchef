@@ -1,0 +1,9 @@
+masterchef:
+name of the dish - noddles
+ingredient -  1) choped onion, capicicum and beat root
+              2) balck pepper , caht masala , chili flex , oregano and maggi masala
+              3) noddles
+procedures - get 2 cup of hot water mix it with the noddles 
+             then after the water is evaporated mix all the masala and then the choped vegetable mix it well and and haet it for 15 min with cover 
+the noodles is ready
+  
